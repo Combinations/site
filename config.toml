@@ -25,9 +25,9 @@ pygmentsCodefences      = true
     text = "writing"
 
 [[params.mainMenu]]
-    link = "/bookz"
+    link = "/personal-site/books"
     text = "books"
 
 [[params.mainMenu]]
-    link = "https://ijames.gitlab.io/personal-site/about"
+    link = "/personal-site/about"
     text = "about"
