@@ -1,7 +1,7 @@
 ---
-title: "Posts"
+title: "Books"
 date: 2018-02-13T12:21:57-05:00
 
 ---
 
-Welcome to the blog section! This page uses the default `list.html` template. Write anything you like here. You can set this text with your `_index.md` in the `/content/posts/` folder.
+Welcome to the books section! Below is a list of books that I've read/want to read. The 'R' next to a link indicates that I'm reading/read the book. I don't finish all the books that I start. 

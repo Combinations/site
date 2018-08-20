@@ -31,3 +31,11 @@ pygmentsCodefences      = true
 [[params.mainMenu]]
     link = "/personal-site/about"
     text = "about"
+
+[[params.mainMenu]]
+    link = "/personal-site/software"
+    text = "software"
+
+[[params.mainMenu]]
+    link = "/personal-site/videosandpodcasts"
+    text = "videos/podcasts"
