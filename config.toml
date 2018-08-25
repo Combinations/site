@@ -21,20 +21,20 @@ pygmentsCodefences      = true
     primaryImage        = "/tn.png"                     # Image that shows on Twitter cards and OpenGraph links
 
 [[params.mainMenu]]
-    link = "/personal-site/posts"
-    text = "writing"
-
-[[params.mainMenu]]
-    link = "/personal-site/books"
-    text = "books"
-
-[[params.mainMenu]]
     link = "/personal-site/about"
     text = "about"
 
 [[params.mainMenu]]
     link = "/personal-site/software"
     text = "software"
+
+[[params.mainMenu]]
+    link = "/personal-site/posts"
+    text = "writing"
+
+[[params.mainMenu]]
+    link = "/personal-site/digital-library"
+    text = "digital library"
 
 [[params.mainMenu]]
     link = "/personal-site/videosandpodcasts"
