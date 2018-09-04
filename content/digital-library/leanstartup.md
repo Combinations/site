@@ -1,5 +1,5 @@
 ---
-title: "The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses"
+title: "The Lean Startup"
 showDate: false
 draft: false
 tags: ["classic","poem"]

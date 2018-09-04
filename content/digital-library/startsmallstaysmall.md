@@ -1,5 +1,5 @@
 ---
-title: "Start Small, Stay Small: A Developer's Guide to Launching a Startup"
+title: "Start Small, Stay Small"
 showDate: false
 draft: false
 tags: ["classic","poem"]

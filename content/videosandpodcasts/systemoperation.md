@@ -1,5 +1,5 @@
 ---
-title: "System operation framework"
+title: "System Operation Framework"
 showDate: false
 draft: false
 tags: ["classic","poem"]
