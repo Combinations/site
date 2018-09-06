@@ -199,7 +199,7 @@ The above is an important point because I've worked with more complicated infras
 
 For many, it is not worth the cost of implementing more complex systems. You want to avoid premature optimization. 
 
-Ultimately, it is up to the organization to clearly identify what is needed (Doing this incorrectly is expensive); the infrastructure that an organization chooses should be specific to their circumstances. There is no silver bullet.  
+Ultimately, it is up to the organization to clearly/accurately identify what is needed (Doing this incorrectly is expensive); the infrastructure that an organization chooses should be specific to their circumstances. There is no silver bullet.  
 
 By containerizing your applications early it will give you flexiblity to transition your infrastructure and/or switch cloud providers should you need.
 
