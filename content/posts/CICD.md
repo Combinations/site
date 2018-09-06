@@ -193,9 +193,9 @@ The final step is to create a Gitlab project. You can do this through <a href="h
 
 You now have the knowledge that is needed in order to set up CI/CD for a simple Node project. The principles covered in this tutorial extend to other languages.
 
-I would like to highlight that Elastic beanstalk has an autoscaling service, which means that our setup will work nicely as the usage of the application increases (ie. You can configure Elastic Beanstalk to autoscale on CPU usage). Additionally, Elastic Beanstalk gives you the ability to access the underlying AWS resources should you need more control.
+I would like to highlight that Elastic Beanstalk has an autoscaling service, which means that our setup will work nicely as the usage of the application increases (ie. You can configure Elastic Beanstalk to autoscale on CPU usage). Additionally, Elastic Beanstalk gives you the ability to access the underlying AWS resources should you need more control.
 
-The above is an important point because I've worked with more complicated infrastrucutre (ie. Kubernetes) and what I've noticed is that <i> for most </i> software projects Elastic Beanstalk (or other similar products) provide sufficent features (ie. Management of: autoscaling, software deployments, operating system updates, networks, firewalls, and load balancing). 
+The above is an important point because I've worked with more complicated infrastructure (ie. <a href="https://kubernetes.io/" target="_blank">Kubernetes</a>) and what I've noticed is that <i> for most </i> software projects Elastic Beanstalk (or other similar products) provide sufficent features (ie. Management of: autoscaling, software deployments, operating system updates, networks, firewalls, and load balancing). 
 
 For many, it is not worth the cost of implementing more complex systems. You want to avoid premature optimization. 
 
