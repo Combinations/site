@@ -4,5 +4,6 @@ showDate: false
 draft: false
 tags: ["classic","poem"]
 link: "https://www.ece.uvic.ca/~frodo/sigsysbook/downloads/continuous_time_signals_and_systems-2013-09-11-uvic-v2.pdf"
+target: "_blank"
 read: "R"
 ---

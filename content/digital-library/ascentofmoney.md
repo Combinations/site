@@ -4,5 +4,6 @@ showDate: false
 draft: false
 tags: ["classic","poem"]
 link: "https://www.amazon.ca/Ascent-Money-Financial-History-World/dp/0143116177"
+target: "_blank"
 read: "R"
 ---

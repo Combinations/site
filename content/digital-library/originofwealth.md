@@ -5,4 +5,5 @@ draft: false
 tags: ["classic","poem"]
 link: "https://www.amazon.com/Origin-Wealth-Remaking-Economics-Business/dp/1422121038"
 read: ""
+target: "_blank"
 ---

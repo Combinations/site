@@ -4,5 +4,6 @@ showDate: false
 draft: false
 tags: ["classic","poem"]
 link: "https://www.amazon.com/dp/0670899763"
+target: "_blank"
 read: ""
 ---

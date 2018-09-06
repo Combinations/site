@@ -5,4 +5,5 @@ draft: false
 tags: ["classic","poem"]
 link: "https://www.amazon.ca/Revolt-Public-Crisis-Authority-Millennium-ebook/dp/B00KQMVOPM/ref=sr_1_1?s=books&ie=UTF8&qid=1535144932&sr=1-1&keywords=the+revolt+of+the+public"
 read: ""
+target: "_blank"
 ---
