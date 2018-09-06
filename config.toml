@@ -1,10 +1,10 @@
-baseurl                 = "http://james-leahy.com"               # Your domain name. Must end with "/"
+baseurl                 = "http://james-leahy.com"
 languageCode            = "en-us"
 title                   = "James Leahy"
 theme                   = "sam"
-pygmentsStyle           = "manni"                     # https://help.farbox.com/pygments.html
+pygmentsStyle           = "manni"
 pygmentsCodefences      = true
-# googleAnalytics       = "xxx"             # Tracking code, eg. "UA-111111111-1"
+googleAnalytics         = "UA-125374886-1"
 
 [params]
     dateform            = "Mon Jan 02, 2006"
